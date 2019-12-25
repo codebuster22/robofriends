@@ -1,0 +1,8 @@
+.bg-custom{
+background-image: linear-gradient(to right, rgb(74, 33, 152), rgb(235, 141, 48));
+    font-family: SansSerif, Georgia, serif;
+}
+.link{
+    font-size: 72px;
+    text-decoration: azure;
+}
