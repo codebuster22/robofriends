@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Robofriends
 
-## Available Scripts
-
-In the project directory, you can run:
+## Description
+A friend list app, which uses an open API to fetch data and uses Redux and other middlewares.
 
 ### `npm start`
 
